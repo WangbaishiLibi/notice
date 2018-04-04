@@ -1,0 +1,1 @@
+java  -Dfile.encoding=utf-8 -jar notice-1.0-SNAPSHOT.jar
